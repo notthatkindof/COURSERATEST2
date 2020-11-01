@@ -38,7 +38,7 @@ CommonDriver cmnDriver;
 	@Test
 	public void searchProduct() throws Exception{
 		String product = "iPhone TESTE CLI";
-		String category = "Electronics";
+		String category = "ElectronicsTESTECLI2";
 		
 		homepage.searchProduct(product, category);
 		
